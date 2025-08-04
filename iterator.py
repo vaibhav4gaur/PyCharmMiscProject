@@ -1,5 +1,5 @@
 # Iterator
-'''list = [1,2,3,4,5]
+list = [1,2,3,4,5]
 
 iterator = iter(list)
 print(iterator.__next__())
@@ -28,7 +28,7 @@ def squares():
 
 values = squares()
 for i in values:
-    print(i)'''
+    print(i)
 
 
 
